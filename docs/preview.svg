@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 820" width="1280" height="820" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9e6ff"/><stop offset="1" stop-color="#dff4f8"/></linearGradient><linearGradient id="ga" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6d5efc" stop-opacity=".28"/><stop offset="1" stop-color="#6d5efc" stop-opacity="0"/></linearGradient><linearGradient id="gb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22b8cf" stop-opacity=".22"/><stop offset="1" stop-color="#22b8cf" stop-opacity="0"/></linearGradient><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#2a2370" flood-opacity=".22"/></filter><clipPath id="win"><rect x="40" y="32" width="1200" height="756" rx="14"/></clipPath></defs>
+<rect width="1280" height="820" fill="url(#bg)"/>
+<rect x="40" y="32" width="1200" height="756" rx="14" fill="#fff" filter="url(#sh)"/>
+<g clip-path="url(#win)">
+<rect x="40" y="32" width="1200" height="38" fill="#eef0f6"/>
+<circle cx="62" cy="51" r="6" fill="#ff5f57"/>
+<circle cx="82" cy="51" r="6" fill="#febc2e"/>
+<circle cx="102" cy="51" r="6" fill="#28c840"/>
+<rect x="420" y="40" width="440" height="22" rx="11" fill="#fff"/>
+<text x="640" y="55" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">localhost:5173/#/overview</text>
+<rect x="40" y="70" width="1200" height="718" fill="#f6f7fb"/>
+<rect x="40" y="70" width="200" height="718" fill="#fff"/><line x1="240" x2="240" y1="70" y2="788" stroke="#e7e9f1"/>
+<rect x="60" y="92" width="28" height="28" rx="8" fill="#6d5efc"/><path d="M65,107 h4 l2.5,-6 4,11 2.5,-5 H83" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="98" y="113" font-size="18" fill="#151826" font-weight="700" text-anchor="start">Pulse</text>
+<rect x="56" y="150" width="168" height="38" rx="10" fill="#eeebff"/>
+<g transform="translate(68,160) scale(0.75)" fill="none" stroke="#6d5efc" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5M5 9.5V21h5v-6h4v6h5V9.5"/></g>
+<text x="98" y="174" font-size="14" fill="#6d5efc" font-weight="600" text-anchor="start">Overview</text>
+<g transform="translate(68,204) scale(0.75)" fill="none" stroke="#6b7188" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20v-1a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v1M9.5 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M21 20v-1a4 4 0 0 0-3-3.9M15.5 4.2a3.5 3.5 0 0 1 0 6.6"/></g>
+<text x="98" y="218" font-size="14" fill="#6b7188" font-weight="500" text-anchor="start">Customers</text>
+<g transform="translate(68,248) scale(0.75)" fill="none" stroke="#6b7188" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></g>
+<text x="98" y="262" font-size="14" fill="#6b7188" font-weight="500" text-anchor="start">Analytics</text>
+<g transform="translate(68,292) scale(0.75)" fill="none" stroke="#6b7188" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h9M17 7h3M4 17h3M11 17h9M15 4v6M9 14v6"/></g>
+<text x="98" y="306" font-size="14" fill="#6b7188" font-weight="500" text-anchor="start">Settings</text>
+<rect x="56" y="630" width="168" height="128" rx="14" fill="#eeebff"/>
+<text x="72" y="660" font-size="14" fill="#151826" font-weight="700" text-anchor="start">Pro plan</text>
+<text x="72" y="682" font-size="12" fill="#6b7188" font-weight="400" text-anchor="start">Unlimited seats, API</text>
+<text x="72" y="698" font-size="12" fill="#6b7188" font-weight="400" text-anchor="start">access, priority support.</text>
+<rect x="72" y="712" width="136" height="32" rx="10" fill="#6d5efc"/>
+<text x="140" y="733" font-size="13" fill="#fff" font-weight="600" text-anchor="middle">Manage plan</text>
+<text x="272" y="116" font-size="24" fill="#151826" font-weight="700" text-anchor="start">Overview</text>
+<text x="272" y="138" font-size="13" fill="#6b7188" font-weight="400" text-anchor="start">Your business at a glance</text>
+<g transform="translate(1090,100) scale(0.75)" fill="none" stroke="#6b7188" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8"/></g>
+<g transform="translate(1130,100) scale(0.75)" fill="none" stroke="#6b7188" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 8 3 8H3s3-1 3-8M10 20a2 2 0 0 0 4 0"/></g>
+<circle cx="1192" cy="109" r="17" fill="hsl(252 70% 92%)"/>
+<text x="1192" y="115.12" font-size="13.26" fill="hsl(252 55% 32%)" font-weight="700" text-anchor="middle">LJ</text>
+<rect x="272" y="160" width="222" height="126" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="290" y="190" font-size="13" fill="#6b7188" font-weight="500" text-anchor="start">Revenue (YTD)</text>
+<text x="290" y="224" font-size="30" fill="#151826" font-weight="700" text-anchor="start">$583K</text>
+<rect x="290" y="236" width="62" height="20" rx="10" fill="#e3f7ef"/>
+<text x="321" y="250" font-size="11" fill="#12a36e" font-weight="700" text-anchor="middle">+38.3%</text>
+<text x="360" y="250" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">vs last period</text>
+<path d="M290.0,278.0 C294.4,277.5 307.7,275.4 316.6,274.8 C325.4,274.2 334.3,274.9 343.1,274.6 C352.0,274.3 360.9,273.9 369.7,273.1 C378.6,272.4 387.4,271.7 396.3,270.1 C405.1,268.6 414.0,264.0 422.9,264.0 C431.7,264.0 440.6,270.1 449.4,270.1 C458.3,270.1 471.6,265.0 476.0,264.0" fill="none" stroke="#12a36e" stroke-width="2" stroke-linecap="round"/>
+<rect x="510" y="160" width="222" height="126" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="528" y="190" font-size="13" fill="#6b7188" font-weight="500" text-anchor="start">Active users</text>
+<text x="528" y="224" font-size="30" fill="#151826" font-weight="700" text-anchor="start">12,334</text>
+<rect x="528" y="236" width="62" height="20" rx="10" fill="#e3f7ef"/>
+<text x="559" y="250" font-size="11" fill="#12a36e" font-weight="700" text-anchor="middle">+47.2%</text>
+<text x="598" y="250" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">vs last period</text>
+<path d="M528.0,278.0 C532.4,277.4 545.7,275.0 554.6,274.2 C563.4,273.3 572.3,274.3 581.1,273.1 C590.0,272.0 598.9,268.1 607.7,267.1 C616.6,266.2 625.4,267.9 634.3,267.4 C643.1,266.8 652.0,264.3 660.9,264.0 C669.7,263.7 678.6,265.7 687.4,265.7 C696.3,265.7 709.6,264.3 714.0,264.0" fill="none" stroke="#12a36e" stroke-width="2" stroke-linecap="round"/>
+<rect x="748" y="160" width="222" height="126" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="766" y="190" font-size="13" fill="#6b7188" font-weight="500" text-anchor="start">Conversion</text>
+<text x="766" y="224" font-size="30" fill="#151826" font-weight="700" text-anchor="start">4.4%</text>
+<rect x="766" y="236" width="62" height="20" rx="10" fill="#e3f7ef"/>
+<text x="797" y="250" font-size="11" fill="#12a36e" font-weight="700" text-anchor="middle">+12.8%</text>
+<text x="836" y="250" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">vs last period</text>
+<path d="M766.0,278.0 C770.4,277.5 783.7,275.1 792.6,274.8 C801.4,274.4 810.3,276.6 819.1,275.8 C828.0,275.1 836.9,271.2 845.7,270.5 C854.6,269.7 863.4,272.1 872.3,271.5 C881.1,271.0 890.0,267.8 898.9,267.2 C907.7,266.7 916.6,268.8 925.4,268.3 C934.3,267.8 947.6,264.7 952.0,264.0" fill="none" stroke="#12a36e" stroke-width="2" stroke-linecap="round"/>
+<rect x="986" y="160" width="222" height="126" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="1004" y="190" font-size="13" fill="#6b7188" font-weight="500" text-anchor="start">Churn</text>
+<text x="1004" y="224" font-size="30" fill="#151826" font-weight="700" text-anchor="start">2.2%</text>
+<rect x="1004" y="236" width="62" height="20" rx="10" fill="#e3f7ef"/>
+<text x="1035" y="250" font-size="11" fill="#12a36e" font-weight="700" text-anchor="middle">-8.3%</text>
+<text x="1074" y="250" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">vs last period</text>
+<path d="M1004.0,265.8 C1008.4,266.0 1021.7,267.8 1030.6,267.5 C1039.4,267.2 1048.3,263.4 1057.1,264.0 C1066.0,264.6 1074.9,269.5 1083.7,271.0 C1092.6,272.5 1101.4,272.8 1110.3,272.8 C1119.1,272.8 1128.0,270.4 1136.9,271.0 C1145.7,271.6 1154.6,275.1 1163.4,276.2 C1172.3,277.4 1185.6,277.7 1190.0,278.0" fill="none" stroke="#12a36e" stroke-width="2" stroke-linecap="round"/>
+<rect x="272" y="302" width="592" height="274" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="292" y="336" font-size="16" fill="#151826" font-weight="700" text-anchor="start">Revenue</text>
+<circle cx="694" cy="331" r="5" fill="#6d5efc"/>
+<text x="704" y="335" font-size="12" fill="#6b7188" font-weight="400" text-anchor="start">This year</text>
+<circle cx="776" cy="331" r="5" fill="#22b8cf"/>
+<text x="786" y="335" font-size="12" fill="#6b7188" font-weight="400" text-anchor="start">Last year</text>
+<line x1="332" x2="846" y1="536.0" y2="536.0" stroke="#e7e9f1" stroke-dasharray="3 4"/>
+<text x="322" y="540" font-size="11" fill="#6b7188" font-weight="400" text-anchor="end">$0</text>
+<line x1="332" x2="846" y1="493.0" y2="493.0" stroke="#e7e9f1" stroke-dasharray="3 4"/>
+<text x="322" y="497.0" font-size="11" fill="#6b7188" font-weight="400" text-anchor="end">$20K</text>
+<line x1="332" x2="846" y1="450.0" y2="450.0" stroke="#e7e9f1" stroke-dasharray="3 4"/>
+<text x="322" y="454.0" font-size="11" fill="#6b7188" font-weight="400" text-anchor="end">$40K</text>
+<line x1="332" x2="846" y1="407.0" y2="407.0" stroke="#e7e9f1" stroke-dasharray="3 4"/>
+<text x="322" y="411.0" font-size="11" fill="#6b7188" font-weight="400" text-anchor="end">$60K</text>
+<line x1="332" x2="846" y1="364.0" y2="364.0" stroke="#e7e9f1" stroke-dasharray="3 4"/>
+<text x="322" y="368" font-size="11" fill="#6b7188" font-weight="400" text-anchor="end">$80K</text>
+<text x="332.0" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Jan</text>
+<text x="378.72727272727275" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Feb</text>
+<text x="425.45454545454544" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Mar</text>
+<text x="472.1818181818182" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Apr</text>
+<text x="518.9090909090909" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">May</text>
+<text x="565.6363636363636" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Jun</text>
+<text x="612.3636363636364" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Jul</text>
+<text x="659.090909090909" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Aug</text>
+<text x="705.8181818181818" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Sep</text>
+<text x="752.5454545454545" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Oct</text>
+<text x="799.2727272727273" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Nov</text>
+<text x="846.0" y="562" font-size="11" fill="#6b7188" font-weight="400" text-anchor="middle">Dec</text>
+<path d="M332.0,474.2 C339.8,474.1 363.2,474.0 378.7,473.5 C394.3,472.9 409.9,471.9 425.5,470.9 C441.0,470.0 456.6,468.8 472.2,467.8 C487.8,466.8 503.3,466.4 518.9,465.0 C534.5,463.6 550.1,460.5 565.6,459.5 C581.2,458.4 596.8,458.9 612.4,459.0 C627.9,459.0 643.5,460.4 659.1,459.8 C674.7,459.3 690.2,457.1 705.8,455.8 C721.4,454.6 737.0,454.2 752.5,452.5 C768.1,450.9 783.7,447.9 799.3,446.1 C814.8,444.3 838.2,442.4 846.0,441.7 L846,536 L332,536 Z" fill="url(#gb)"/><path d="M332.0,474.2 C339.8,474.1 363.2,474.0 378.7,473.5 C394.3,472.9 409.9,471.9 425.5,470.9 C441.0,470.0 456.6,468.8 472.2,467.8 C487.8,466.8 503.3,466.4 518.9,465.0 C534.5,463.6 550.1,460.5 565.6,459.5 C581.2,458.4 596.8,458.9 612.4,459.0 C627.9,459.0 643.5,460.4 659.1,459.8 C674.7,459.3 690.2,457.1 705.8,455.8 C721.4,454.6 737.0,454.2 752.5,452.5 C768.1,450.9 783.7,447.9 799.3,446.1 C814.8,444.3 838.2,442.4 846.0,441.7" fill="none" stroke="#22b8cf" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M332.0,454.6 C339.8,454.1 363.2,453.4 378.7,451.9 C394.3,450.4 409.9,447.3 425.5,445.6 C441.0,444.0 456.6,442.6 472.2,441.9 C487.8,441.2 503.3,442.2 518.9,441.3 C534.5,440.4 550.1,438.7 565.6,436.5 C581.2,434.2 596.8,430.4 612.4,428.0 C627.9,425.7 643.5,423.2 659.1,422.1 C674.7,421.1 690.2,422.3 705.8,421.7 C721.4,421.2 737.0,420.4 752.5,419.0 C768.1,417.7 783.7,416.3 799.3,413.5 C814.8,410.7 838.2,404.0 846.0,402.1 L846,536 L332,536 Z" fill="url(#ga)"/><path d="M332.0,454.6 C339.8,454.1 363.2,453.4 378.7,451.9 C394.3,450.4 409.9,447.3 425.5,445.6 C441.0,444.0 456.6,442.6 472.2,441.9 C487.8,441.2 503.3,442.2 518.9,441.3 C534.5,440.4 550.1,438.7 565.6,436.5 C581.2,434.2 596.8,430.4 612.4,428.0 C627.9,425.7 643.5,423.2 659.1,422.1 C674.7,421.1 690.2,422.3 705.8,421.7 C721.4,421.2 737.0,420.4 752.5,419.0 C768.1,417.7 783.7,416.3 799.3,413.5 C814.8,410.7 838.2,404.0 846.0,402.1" fill="none" stroke="#6d5efc" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="705.8" x2="705.8" y1="364" y2="536" stroke="#6b7188" stroke-dasharray="3 3" opacity=".6"/><circle cx="705.8" cy="421.7" r="5" fill="#6d5efc" stroke="#fff" stroke-width="2"/>
+<rect x="645.8" y="366" width="120" height="54" rx="8" fill="#151826" opacity=".95"/>
+<text x="655.8181818181818" y="383" font-size="11" fill="#fff" font-weight="700" text-anchor="start">Sep</text>
+<text x="655.8181818181818" y="399" font-size="11" fill="#fff" font-weight="400" text-anchor="start">This year: $53.1K</text>
+<text x="655.8181818181818" y="415" font-size="11" fill="#fff" font-weight="400" text-anchor="start">Last year: $37.3K</text>
+<rect x="880" y="302" width="328" height="274" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="900" y="336" font-size="16" fill="#151826" font-weight="700" text-anchor="start">Traffic sources</text>
+<circle cx="956" cy="436" r="48" fill="none" stroke="#e7e9f1" stroke-width="15"/>
+<circle cx="956" cy="436" r="48" fill="none" stroke="#6d5efc" stroke-width="15" stroke-dasharray="123.7 177.9" stroke-dashoffset="0.0" transform="rotate(-90 956 436)"/>
+<circle cx="956" cy="436" r="48" fill="none" stroke="#22b8cf" stroke-width="15" stroke-dasharray="78.4 223.2" stroke-dashoffset="-126.7" transform="rotate(-90 956 436)"/>
+<circle cx="956" cy="436" r="48" fill="none" stroke="#f59e0b" stroke-width="15" stroke-dasharray="51.3 250.3" stroke-dashoffset="-208.1" transform="rotate(-90 956 436)"/>
+<circle cx="956" cy="436" r="48" fill="none" stroke="#ec4899" stroke-width="15" stroke-dasharray="36.2 265.4" stroke-dashoffset="-262.4" transform="rotate(-90 956 436)"/>
+<text x="956" y="439" font-size="19" fill="#151826" font-weight="700" text-anchor="middle">100%</text>
+<text x="956" y="455" font-size="9" fill="#6b7188" font-weight="400" text-anchor="middle">of visits</text>
+<circle cx="1040" cy="398" r="5" fill="#6d5efc"/>
+<text x="1052" y="402" font-size="12.5" fill="#151826" font-weight="400" text-anchor="start">Organic search</text>
+<text x="1188" y="402" font-size="12.5" fill="#151826" font-weight="700" text-anchor="end">42%</text>
+<circle cx="1040" cy="430" r="5" fill="#22b8cf"/>
+<text x="1052" y="434" font-size="12.5" fill="#151826" font-weight="400" text-anchor="start">Direct</text>
+<text x="1188" y="434" font-size="12.5" fill="#151826" font-weight="700" text-anchor="end">27%</text>
+<circle cx="1040" cy="462" r="5" fill="#f59e0b"/>
+<text x="1052" y="466" font-size="12.5" fill="#151826" font-weight="400" text-anchor="start">Referral</text>
+<text x="1188" y="466" font-size="12.5" fill="#151826" font-weight="700" text-anchor="end">18%</text>
+<circle cx="1040" cy="494" r="5" fill="#ec4899"/>
+<text x="1052" y="498" font-size="12.5" fill="#151826" font-weight="400" text-anchor="start">Social</text>
+<text x="1188" y="498" font-size="12.5" fill="#151826" font-weight="700" text-anchor="end">13%</text>
+<rect x="272" y="592" width="592" height="200" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="292" y="626" font-size="16" fill="#151826" font-weight="700" text-anchor="start">Top customers</text>
+<text x="292" y="654" font-size="11" fill="#6b7188" font-weight="600" text-anchor="start">CUSTOMER</text>
+<text x="632" y="654" font-size="11" fill="#6b7188" font-weight="600" text-anchor="start">PLAN</text>
+<text x="844" y="654" font-size="11" fill="#6b7188" font-weight="600" text-anchor="end">MRR</text>
+<line x1="272" x2="864" y1="664" y2="664" stroke="#e7e9f1"/>
+<circle cx="308" cy="692" r="16" fill="hsl(252 70% 92%)"/>
+<text x="308" y="697.76" font-size="12.48" fill="hsl(252 55% 32%)" font-weight="700" text-anchor="middle">HO</text>
+<text x="334" y="690" font-size="13" fill="#151826" font-weight="700" text-anchor="start">Hugo Oliveira</text>
+<text x="334" y="705" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">hugo.oliveira@example.com</text>
+<rect x="632" y="681" width="74" height="22" rx="11" fill="#eeebff"/>
+<text x="669" y="696" font-size="11.5" fill="#6d5efc" font-weight="600" text-anchor="middle">Enterprise</text>
+<text x="844" y="696" font-size="13" fill="#151826" font-weight="400" text-anchor="end">$1,197</text>
+<circle cx="308" cy="738" r="16" fill="hsl(190 70% 92%)"/>
+<text x="308" y="743.76" font-size="12.48" fill="hsl(190 55% 32%)" font-weight="700" text-anchor="middle">LI</text>
+<text x="334" y="736" font-size="13" fill="#151826" font-weight="700" text-anchor="start">Lucas Iyer</text>
+<text x="334" y="751" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">lucas.iyer@example.com</text>
+<rect x="632" y="727" width="74" height="22" rx="11" fill="#eeebff"/>
+<text x="669" y="742" font-size="11.5" fill="#6d5efc" font-weight="600" text-anchor="middle">Enterprise</text>
+<text x="844" y="742" font-size="13" fill="#151826" font-weight="400" text-anchor="end">$798</text>
+<circle cx="308" cy="784" r="16" fill="hsl(36 70% 92%)"/>
+<text x="308" y="789.76" font-size="12.48" fill="hsl(36 55% 32%)" font-weight="700" text-anchor="middle">SF</text>
+<text x="334" y="782" font-size="13" fill="#151826" font-weight="700" text-anchor="start">Sofia Ferreira</text>
+<text x="334" y="797" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">sofia.ferreira@example.com</text>
+<rect x="632" y="773" width="74" height="22" rx="11" fill="#eeebff"/>
+<text x="669" y="788" font-size="11.5" fill="#6d5efc" font-weight="600" text-anchor="middle">Enterprise</text>
+<text x="844" y="788" font-size="13" fill="#151826" font-weight="400" text-anchor="end">$399</text>
+<circle cx="308" cy="830" r="16" fill="hsl(330 70% 92%)"/>
+<text x="308" y="835.76" font-size="12.48" fill="hsl(330 55% 32%)" font-weight="700" text-anchor="middle">RT</text>
+<text x="334" y="828" font-size="13" fill="#151826" font-weight="700" text-anchor="start">Ravi Tanaka</text>
+<text x="334" y="843" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">ravi.tanaka@example.com</text>
+<rect x="632" y="819" width="74" height="22" rx="11" fill="#eeebff"/>
+<text x="669" y="834" font-size="11.5" fill="#6d5efc" font-weight="600" text-anchor="middle">Enterprise</text>
+<text x="844" y="834" font-size="13" fill="#151826" font-weight="400" text-anchor="end">$399</text>
+<rect x="880" y="592" width="328" height="200" rx="14" fill="#fff" stroke="#e7e9f1"/>
+<text x="900" y="626" font-size="16" fill="#151826" font-weight="700" text-anchor="start">Recent activity</text>
+<circle cx="918" cy="664" r="17" fill="hsl(330 70% 92%)"/>
+<text x="918" y="670.12" font-size="13.26" fill="hsl(330 55% 32%)" font-weight="700" text-anchor="middle">MO</text>
+<text x="944" y="662" font-size="12" fill="#151826"><tspan font-weight="700">Marta Oliveira</tspan> upgraded to Business</text>
+<text x="944" y="677" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">12 min ago</text>
+<circle cx="918" cy="704" r="17" fill="hsl(190 70% 92%)"/>
+<text x="918" y="710.12" font-size="13.26" fill="hsl(190 55% 32%)" font-weight="700" text-anchor="middle">KW</text>
+<text x="944" y="702" font-size="12" fill="#151826"><tspan font-weight="700">Kenji Watanabe</tspan> started a 14-day trial</text>
+<text x="944" y="717" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">48 min ago</text>
+<circle cx="918" cy="744" r="17" fill="hsl(252 70% 92%)"/>
+<text x="918" y="750.12" font-size="13.26" fill="hsl(252 55% 32%)" font-weight="700" text-anchor="middle">PN</text>
+<text x="944" y="742" font-size="12" fill="#151826"><tspan font-weight="700">Priya Nair</tspan> invited 6 teammates</text>
+<text x="944" y="757" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">2 h ago</text>
+<circle cx="918" cy="784" r="17" fill="hsl(12 70% 92%)"/>
+<text x="918" y="790.12" font-size="13.26" fill="hsl(12 55% 32%)" font-weight="700" text-anchor="middle">LF</text>
+<text x="944" y="782" font-size="12" fill="#151826"><tspan font-weight="700">Lucas Ferreira</tspan> cancelled Pro plan</text>
+<text x="944" y="797" font-size="11" fill="#6b7188" font-weight="400" text-anchor="start">5 h ago</text>
+</g>
+</svg>
